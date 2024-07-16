@@ -17,7 +17,7 @@ import Products from "./pages/Products.jsx";
 import Cart from "./pages/Cart.jsx";
 import Search from "./pages/Search.jsx";
 // axios.defaults.baseURL = "https://ecom-mern-blackhouse.onrender.com";
-axios.defaults.baseURL = "http://localhost:8082";
+axios.defaults.baseURL = "https://ecommerce-mern-2-azan.onrender.com";
 
 const router = createBrowserRouter([
   {
